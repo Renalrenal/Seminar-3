@@ -10,10 +10,10 @@ int ReadInt(string message)
 string GetRange(int quarter)
 {
     if (quarter == 1)
-    {
+    
         return ("x > 0; y > 0");
 
-    }
+    
     if (quarter == 2)
     {
         return ("x > 0; y < 0");

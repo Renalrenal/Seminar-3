@@ -1,0 +1,15 @@
+C:\Users\rnlam\OneDrive\Рабочий стол\Знакомство с языками программирования\Лекция3\Exampl04\bin\Debug\net7.0\Exampl04.exe
+C:\Users\rnlam\OneDrive\Рабочий стол\Знакомство с языками программирования\Лекция3\Exampl04\bin\Debug\net7.0\Exampl04.deps.json
+C:\Users\rnlam\OneDrive\Рабочий стол\Знакомство с языками программирования\Лекция3\Exampl04\bin\Debug\net7.0\Exampl04.runtimeconfig.json
+C:\Users\rnlam\OneDrive\Рабочий стол\Знакомство с языками программирования\Лекция3\Exampl04\bin\Debug\net7.0\Exampl04.dll
+C:\Users\rnlam\OneDrive\Рабочий стол\Знакомство с языками программирования\Лекция3\Exampl04\bin\Debug\net7.0\Exampl04.pdb
+C:\Users\rnlam\OneDrive\Рабочий стол\Знакомство с языками программирования\Лекция3\Exampl04\obj\Debug\net7.0\Exampl04.csproj.AssemblyReference.cache
+C:\Users\rnlam\OneDrive\Рабочий стол\Знакомство с языками программирования\Лекция3\Exampl04\obj\Debug\net7.0\Exampl04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnlam\OneDrive\Рабочий стол\Знакомство с языками программирования\Лекция3\Exampl04\obj\Debug\net7.0\Exampl04.AssemblyInfoInputs.cache
+C:\Users\rnlam\OneDrive\Рабочий стол\Знакомство с языками программирования\Лекция3\Exampl04\obj\Debug\net7.0\Exampl04.AssemblyInfo.cs
+C:\Users\rnlam\OneDrive\Рабочий стол\Знакомство с языками программирования\Лекция3\Exampl04\obj\Debug\net7.0\Exampl04.csproj.CoreCompileInputs.cache
+C:\Users\rnlam\OneDrive\Рабочий стол\Знакомство с языками программирования\Лекция3\Exampl04\obj\Debug\net7.0\Exampl04.dll
+C:\Users\rnlam\OneDrive\Рабочий стол\Знакомство с языками программирования\Лекция3\Exampl04\obj\Debug\net7.0\refint\Exampl04.dll
+C:\Users\rnlam\OneDrive\Рабочий стол\Знакомство с языками программирования\Лекция3\Exampl04\obj\Debug\net7.0\Exampl04.pdb
+C:\Users\rnlam\OneDrive\Рабочий стол\Знакомство с языками программирования\Лекция3\Exampl04\obj\Debug\net7.0\Exampl04.genruntimeconfig.cache
+C:\Users\rnlam\OneDrive\Рабочий стол\Знакомство с языками программирования\Лекция3\Exampl04\obj\Debug\net7.0\ref\Exampl04.dll
