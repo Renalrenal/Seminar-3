@@ -1,0 +1,15 @@
+C:\Users\rnlam\OneDrive\Рабочий стол\Знакомство с языками программирования\Лекция3\Example01\bin\Debug\net7.0\Example01.exe
+C:\Users\rnlam\OneDrive\Рабочий стол\Знакомство с языками программирования\Лекция3\Example01\bin\Debug\net7.0\Example01.deps.json
+C:\Users\rnlam\OneDrive\Рабочий стол\Знакомство с языками программирования\Лекция3\Example01\bin\Debug\net7.0\Example01.runtimeconfig.json
+C:\Users\rnlam\OneDrive\Рабочий стол\Знакомство с языками программирования\Лекция3\Example01\bin\Debug\net7.0\Example01.dll
+C:\Users\rnlam\OneDrive\Рабочий стол\Знакомство с языками программирования\Лекция3\Example01\bin\Debug\net7.0\Example01.pdb
+C:\Users\rnlam\OneDrive\Рабочий стол\Знакомство с языками программирования\Лекция3\Example01\obj\Debug\net7.0\Example01.csproj.AssemblyReference.cache
+C:\Users\rnlam\OneDrive\Рабочий стол\Знакомство с языками программирования\Лекция3\Example01\obj\Debug\net7.0\Example01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnlam\OneDrive\Рабочий стол\Знакомство с языками программирования\Лекция3\Example01\obj\Debug\net7.0\Example01.AssemblyInfoInputs.cache
+C:\Users\rnlam\OneDrive\Рабочий стол\Знакомство с языками программирования\Лекция3\Example01\obj\Debug\net7.0\Example01.AssemblyInfo.cs
+C:\Users\rnlam\OneDrive\Рабочий стол\Знакомство с языками программирования\Лекция3\Example01\obj\Debug\net7.0\Example01.csproj.CoreCompileInputs.cache
+C:\Users\rnlam\OneDrive\Рабочий стол\Знакомство с языками программирования\Лекция3\Example01\obj\Debug\net7.0\Example01.dll
+C:\Users\rnlam\OneDrive\Рабочий стол\Знакомство с языками программирования\Лекция3\Example01\obj\Debug\net7.0\refint\Example01.dll
+C:\Users\rnlam\OneDrive\Рабочий стол\Знакомство с языками программирования\Лекция3\Example01\obj\Debug\net7.0\Example01.pdb
+C:\Users\rnlam\OneDrive\Рабочий стол\Знакомство с языками программирования\Лекция3\Example01\obj\Debug\net7.0\Example01.genruntimeconfig.cache
+C:\Users\rnlam\OneDrive\Рабочий стол\Знакомство с языками программирования\Лекция3\Example01\obj\Debug\net7.0\ref\Example01.dll
